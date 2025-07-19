@@ -8,9 +8,9 @@ This repository contains hands-on practice files and mini-projects in:
 
 ## 📁 Folder Overview
 
-📁 Python_file_handling/ → Working with text and CSV files
-📁 python_stuff/ → Core Python concepts and small practice scripts
-📁 bash stuff/ → Shell scripting for automation and basic tasks
+📁 Python_file_handling/ → Working with text and CSV files <br>
+📁 python_stuff/ → Core Python concepts and small practice scripts <br>
+📁 bash stuff/ → Shell scripting for automation and basic tasks <br>
 📁 bash_learning/ → Additional Bash scripting practice and experiments
 
 ## 🎯 Goal
