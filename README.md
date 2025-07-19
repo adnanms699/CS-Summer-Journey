@@ -1,6 +1,6 @@
 # CS Summer Journey 🚀
 
-Welcome to my coding journey as a first-year computer science student!  
+Welcome to my coding journey as a Second-year computer science student!  
 This repository contains hands-on practice files and mini-projects in:
 
 - 🐍 **Python**: File handling, functions, loops, CSVs, and basic algorithms
