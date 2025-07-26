@@ -1,1 +1,3 @@
 print("hello world")
+print("This is a test file for git operations")
+print("You can add, commit, and push changes to your repository.")
